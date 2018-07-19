@@ -1,0 +1,7 @@
+gfortran ts.f dminv.f
+gfortran ts.f dminv.f -o ts
+g++ dminvTest.cxx dminv.cxx -o dt
+dt > _t
+ts > _s
+diff -Bb _t _s
+

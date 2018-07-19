@@ -1,0 +1,11 @@
+1.000000 dispersion scale factor
+3.000000 dipole width
+2.000000 quadrupole width
+100000.000000 truncate betas at
+100000.000000 truncate dispersion +-
+5.500000e-02 energy
+e  species (e,p,au,d)
+5.000000e-06 epsx
+5.000000e-06 epsy
+1.000000e-03 energy spread
+1.000000e-01 bunch length
